@@ -26,7 +26,10 @@
 ### 🧭 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswns3371&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3371)](https://solved.ac/guswns3371)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswns3371&hide=javascript,html,css,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **guswns3371/guswns3371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
