@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 😄 I'm HyunJoon Ha
-- 👀 I’m interested in Java, Kotlin, Python
 - 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Java, Kotlin, Python
+
 
 ### 🛠 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-%231287B1.svg?style=flat-square&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
@@ -21,9 +23,9 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+### 🧭 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswns3371)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswns3371&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3371)](https://solved.ac/guswns3371)
 <!--
 **guswns3371/guswns3371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
