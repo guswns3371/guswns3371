@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 😄 I'm HyunJoon Ha
+
+- 😄 I'm 하현준
 - 🌱 I’m currently learning Spring Boot
 - 👀 I’m interested in Java, Kotlin, Python
 
@@ -25,7 +26,7 @@
 
 ### 🧭 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswns3371&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswns3371&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3371)](https://solved.ac/guswns3371)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswns3371&hide=javascript,html,css,php,makefile,handlebars,hack,CMake,SCSS,Mustache,Shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
