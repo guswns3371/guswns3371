@@ -3,7 +3,7 @@
 
 - 😄 I'm 하현준
 - 🌱 I’m currently learning Spring Boot
-- 👀 I’m interested in Java, Kotlin, Python
+- 👀 I’m interested in Java, Python
 - 💬 Here's my [Portfolio](https://github.com/guswns3371/Portfolio)
 
 
