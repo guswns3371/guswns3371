@@ -6,9 +6,9 @@
 
 
 😄 I'm 하현준  
-🌱 I’m currently learning `Spring Boot`  
+🌱 I’m currently learning `Spring Boot Framework`  
 👀 I’m interested in `Java`, `Python`  
-💬 Here's my [Portfolio](https://github.com/guswns3371/Portfolio)  
+💬 Here's my [Portfolio](https://github.com/guswns3371/Portfolio), [Velog](https://velog.io/@guswns3371)  
 
 
 ### 🛠 Tech Stack
