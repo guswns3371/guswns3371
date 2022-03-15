@@ -2,10 +2,7 @@
 <div align=center>
   
 
-### 👋 Hi there 
-
-
-😄 I’m `하현준`  
+### 😄 하현준(hjoon)  
 🌱 I’m currently learning `Spring Boot Framework`  
 👀 I’m interested in `Java`, `Python`  
 #### 👉 [**Portfolio**](https://github.com/guswns3371/Portfolio), [**Velog**](https://velog.io/@guswns3371/about) 👈
