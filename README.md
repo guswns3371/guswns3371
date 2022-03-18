@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=30)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=30) -->
 
 ### 😄 Interest
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-%231287B1.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -36,6 +36,6 @@
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswns3371&hide=javascript,html,css,php,makefile,handlebars,hack,CMake,SCSS,Mustache,Shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=80)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=80) -->
   
 </div>
