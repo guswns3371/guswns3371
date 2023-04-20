@@ -28,7 +28,7 @@
 
 ### 📝 Details
 
-👉 [![](https://img.shields.io/badge/포트폴리오-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://github.com/guswns3371/Portfolio) 👈
+👉 [![](https://img.shields.io/badge/포트폴리오-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://github.com/guswns3371/Portfolio) [![](https://img.shields.io/badge/GitBook-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://guswns3371.gitbook.io/study/) 👈
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3371)](https://solved.ac/guswns3371)
   
