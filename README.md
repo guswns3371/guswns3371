@@ -1,34 +1,10 @@
 
 <div align=center>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=30) -->
-
-### 😄 Interest
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-%231287B1.svg?style=flat-square&logo=java&logoColor=white)
-
-### 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-%231287B1.svg?style=flat-square&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-  
-<!-- 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
--->
-
 
 ### 📝 Details
 
-👉 [![](https://img.shields.io/badge/포트폴리오-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://github.com/guswns3371/Portfolio) [![](https://img.shields.io/badge/GitBook-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://guswns3371.gitbook.io/study/) 👈
+[![](https://img.shields.io/badge/이력서-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://hjoon.notion.site/1ba56a55630e801c94b3fb4b3569103a?pvs=74)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswns3371)](https://solved.ac/guswns3371)
   
